@@ -1,8 +1,12 @@
 
 # 📝 Publications 
 
- ``HPCA 2026`` [ushare](), **Wenhao Huang** , et al.
- ``EuroSys 2026`` [iRoute](), et al., **Wenhao Huang** , et al.
+ - ``HPCA 2026``, [μshare](), **Wenhao Huang** , et al.
+ - ``EuroSys 2026`` [iRoute](), ..., **Wenhao Huang** , et al.
+ - ``NPC 2025`` [nshare](), **Wenhao Huang** , et al.
+ - ``ICA3PP 2023`` [Tianxuan](), ..., **Wenhao Huang** , et al.
+ - ``ICPADS 2022`` [Maxwell](), ..., **Wenhao Huang** , et al.
+ - 
  
 <!--
 ## 🎙 Speech Synthesis
