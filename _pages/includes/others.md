@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- *2023.06 - Now*, PHD candidate , Tianjin Univeristy.
+- *2023.06 - Now*, PHD Candidate, Tianjin Univeristy.
 - *2020.09 - 2023.06*, Master, Tianjin University.
-- *2016.09 - 2020.06*, Bachelor, Zhejiang University.
+- *2016.09 - 2020.06*, Bachelor, Zhengzhou University.
 
 <!--
 # 💬 Invited Talks
