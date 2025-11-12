@@ -1,6 +1,6 @@
 # 🎖 Honors and Awards
 
-- *2022* [ICPADS 2022 Best Paper Award (CCF-C)](https://www.njupt.edu.cn/2023/0115/c53a233294/page.htm)(https://ieeexplore.ieee.org/document/10077958)
+- *2022* [ICPADS 2022 Best Paper Award](https://www.njupt.edu.cn/2023/0115/c53a233294/page.htm)(https://ieeexplore.ieee.org/document/10077958)
 
 <!--
 
